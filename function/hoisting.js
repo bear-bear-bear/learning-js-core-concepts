@@ -1,4 +1,4 @@
-/* 작성한 코드 */
+/* 개발자가 작성한 코드 */
 console.log(a());
 console.log(b());
 console.log(c());
